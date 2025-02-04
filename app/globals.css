@@ -13,3 +13,9 @@
   background-color: rgb(141, 0, 141);
   color: #ffffff;
 }
+
+@layer base {
+  :root {
+    --radius: 0.5rem;
+  }
+}
